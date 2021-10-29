@@ -12,7 +12,7 @@
 - Discord-Server von CIS Studenten: https://discord.gg/Ph9D7mM
 
 ### etc.
--Wenn ihr Fehler in meiner Folie gefunden habt, lasst es mich bitte wissen. Danke!
+- Wenn ihr Fehler in meiner Folie gefunden habt, lasst es mich bitte wissen. Danke!
 
 ### Materialien
 
