@@ -18,7 +18,7 @@
 
 | Date       | Slide          | Note |
 | ------------- |:-------------:| -----:|
-|29.10.2021    | [tutorium_1_corrected.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/tutorium_1_corrected.pdf)   | corrected mistakes on page 40, 41     |
+|29.10.2021    | [tutorium_1_corrected.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/tutorium_1_corrected.pdf)   | corrected mistakes on page 29, 40, 41     |
 |5.11.2021    | [slide2.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide2.pdf)   |Erwartungswert, Varianz, Binomialtest      |
 |......   | ......    | ......     |
 |......   | ......    | ......     |
