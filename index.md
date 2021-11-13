@@ -10,7 +10,9 @@
 - [Fragensammlung](https://docs.google.com/presentation/d/1Ufc7QyfnynZ-dBXmhIReUs6-C-UVynyMUFlMhWCWCPw/edit?usp=sharing) : Schreibt eure Fragen hier am besten 1-2 Tage vor dem Tutorium.
 - [Wunschliste](https://docs.google.com/document/d/1ciuLFUNBomMe9dkaJPgTvy8pP2o6zGmCcOve6N68-iE/edit?usp=sharing): Wünsche und Feedback
 - Discord-Server von CIS Studenten: https://discord.gg/Ph9D7mM
-
+### Books
+[Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/Foundations_of_Statistical_Natural_Language_Manning_Schuetze.pdf) \
+[Speech_and_Language_Processing_Jurafsky_Martin.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
 ### etc.
 - Wenn ihr Fehler in meiner Folie gefunden habt, lasst es mich bitte wissen. Danke!
 
