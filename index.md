@@ -26,6 +26,6 @@
 |5.11.2021    | [slide2.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide2.pdf)   |Erwartungswert, Varianz, Binomialtest      |
 |12.11.2021   | [slide3.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide3.pdf)   | Binomialtest, Entropie, Fragen beantworten    |
 |19.11.2021   | [slide4.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide4.pdf)  | Sprachmodelle, Backoff-Smoothing  |
-|             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztafel  |
+|             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztabelle |
 |26.11.2021   |  ...  | I haven't had time to edit the slide yet. I will try to upload it on Tuesday or Wednesday.    |
 |......   | ......    | ......     |
