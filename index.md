@@ -25,7 +25,7 @@
 |29.10.2021    | [tutorium_1_corrected.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/tutorium_1_improved2.pdf)   | corrected mistakes on page 29, 40, 41     |
 |5.11.2021    | [slide2.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide2_improved.pdf)   |Erwartungswert, Varianz, Binomialtest      |
 |12.11.2021   | [slide3.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide3.pdf)   | Binomialtest, Entropie, Fragen beantworten    |
-|19.11.2021   | [slide4.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide4.pdf)  | Sprachmodelle, Backoff-Smoothing  |
+|19.11.2021   | [slide4_improved.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide4_improved.pdf)  | Sprachmodelle, Backoff-Smoothing, corrected a minor mistake in backoff formula  |
 |             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztabelle |
 |26.11.2021   | [slide5_naive_bayes_edited.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide5_naive_bayes_edited.pdf)  | backoff, naive bayes (corrected some mistakes in the slide)|
 |3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
