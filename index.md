@@ -16,7 +16,7 @@
 - [Speech_and_Language_Processing_Jurafsky_Martin.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/Speech_and_Language_Processing_Jurafsky_Martin.pdf)
 
 ### etc.
-- Wenn ihr Fehler in meiner Folie gefunden habt, lasst es mich bitte wissen. Danke!
+- Wenn ihr Fehler in meiner Folien gefunden habt, lasst es mich bitte wissen. Danke!
 
 ### Materialien
 
