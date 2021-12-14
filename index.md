@@ -29,5 +29,8 @@
 |             | [contingency_table.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/contingency_table.pdf)  | Chi-Quadrat-Test, Kontingenztabelle |
 |26.11.2021   | [slide5_naive_bayes_fix_backoff.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide5_naive_bayes_fix_backoff.pdf)  | backoff, naive bayes (corrected some mistakes in the slide)|
 |3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
+|10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
 |......   | ......    | ......     |
 |......   | ......    | ......     |
+|......   | ......    | ......     |
+
