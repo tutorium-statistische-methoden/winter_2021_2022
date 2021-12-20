@@ -30,7 +30,7 @@
 |26.11.2021   | [slide5_naive_bayes_fix_backoff.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide5_naive_bayes_fix_backoff.pdf)  | backoff, naive bayes (corrected some mistakes in the slide)|
 |3.12.2021   | [slide6_HMM.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide6_HMM.pdf)  | HMM  |
 |10.12.2021   | [slide_7_viterbi.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide_7_viterbi.pdf)  | Viterbi, EM-Training  |
-|......   | ......    | ......     |
-|......   | ......    | ......     |
-|......   | ......    | ......     |
+|16.12.2021   | slide kommt noch    | ......     |
+|......   | [Parsewald_erstellen](https://tutorium-statistische-methoden.github.io/winter_2021_2022/parser_Parsewald_update.pdf)   | ......     |
+|24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 
