@@ -35,5 +35,19 @@
 |24.12.2021   | kein Tutorium  | Frohe Weihnachten!🎄  |
 |7.1.2022  | [slide9.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide9.pdf)  |Parser Viterbi, Inside-Output-Algorithmus     |
 |14.1.2022  | [slide10_left-corner.pdf](https://tutorium-statistische-methoden.github.io/winter_2021_2022/slide10_left-corner.pdf)  | ......     |
-|...   | ...   | ......     |
-|...   | ...   | ......     |
+| 21.1.2022 |Folie ist in Bearbeitung| Perzeptron|
+| .... |[zusammenfassung_statistische_modelle.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/zusammenfassung_statistische_modelle.pdf)| -----|
+| .... |[Altklausuraufgaben_zum_Üben.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/Altklausuraufgaben_zum_Üben.pdf)|Wir können die Aufgaben am 11.2.2022 gemeinsam anschauen/lösen|
+| .... |[Code für Forward-Backward-Algorithmus (bigram, trigram)](https://colab.research.google.com/drive/1NH7FNCaMsRkHGLBv9QvZn0Q0m-dclcil?usp=sharing)|Altklausuraufgabe zu Forward, Backward Algo, Berechnung von Gamma-Werte |
+| .... |[viterbi_forward_backward_exercises.pdf](https://tutorium-statistische-methoden-2.github.io/winter2021_2022/viterbi_forward_backward_exercises.pdf)| -----|
+| .... |[Meine Lösung zur Uebung-WS17-18.pdf](https://colab.research.google.com/drive/1Wqw9InSPfpb_D7hXHyJ6GnL3GiShSR2i?usp=sharing)| Altklausuraufgabe zu Perzeptron|
+| .... |clarify| Ich wollte etwas zu Berkeley Parser noch klären. Jemand hat im Tutorium gefragt, ob die synthetische Merkmale  0,1 gemeint sind. Ja, das ist schon richtig. Das sind die synthetische Merkmale von der Kategorie (wie NP, VP). Ich habe geantwortet, dass z.B. NP0, NP1 sind die Merkmale, was nicht ganz korrekt war.|
+| 28.1.2022 |-------------| plan: linear chain CRF + Klausuraufgaben lösen|
+| 4.2.2022 |KEIN Tutorium | -----|
+| 11.2.2022 | extra Termin|plan: Wiederholung + Altklausuren machen + Fragen beantworten|
+| 18.2.2022|  ( extra Termin )| Falls es Nachfrage gibt werde ich diesen Termin noch bieten|
+| 22.2.2022 |Übung Klausur| 10 Uhr c.t. in Hörsaal BU101|
+| 23.2.2022 |Vorlesung Klausur| 10 Uhr c.t. in Hörsaal BU101|
+| .... |-------------| -----|
+| .... |-------------| -----|
+| .... |-------------| -----|
